@@ -16,6 +16,7 @@
     timeout = 5
     history_length = 100
     notification_limit = 20
+    sort = update
 
     # Colors
     background = "#1e1e2e"
